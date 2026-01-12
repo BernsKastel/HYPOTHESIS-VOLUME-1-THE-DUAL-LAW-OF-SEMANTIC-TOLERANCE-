@@ -1,8 +1,7 @@
 # HYPOTHESIS-VOLUME-1-THE-DUAL-LAW-OF-SEMANTIC-TOLERANCE-
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Copyright [2026] [Tu Nombre o Nombre de la Organización]
-
+Copyright [2026] Benjamín Felipe Pérez Contreras
 You are free to:
 
 - Share — copy and redistribute the material in any medium or format
